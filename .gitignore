@@ -1,0 +1,14 @@
+vivado_pid7488.str
+vivado.jou
+vivado.log
+mips32_pipeline_complet.cache
+mips32_pipeline_complet.cache/*
+mips32_pipeline_complet.hw
+mips32_pipeline_complet.hw/*
+mips32_pipeline_complet.ip_user_files
+mips32_pipeline_complet.ip_user_files/*
+mips32_pipeline_complet.sim
+mips32_pipeline_complet.sim/*
+*.log
+*.jou
+*.str
